@@ -4,10 +4,10 @@ author: "Math_116"
 date: "Fall semester"
 output: html_document
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 # Build a Poem with commits to different branches
 Our project will be done using a sequence of save and commits and branch actions.
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
